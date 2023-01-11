@@ -1,0 +1,13 @@
+name: Shinyapp_chat
+title: Shinyapp_chat
+username:
+account: kyurheep
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8013762
+bundleId: 6722335
+url: https://kyurheep.shinyapps.io/Shinyapp_chat/
+when: 1673455362.80115
+lastSyncTime: 1673455362.80116
+asMultiple: FALSE
+asStatic: FALSE
